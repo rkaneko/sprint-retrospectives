@@ -1,6 +1,7 @@
 @import url('./font.css');
 @import url('./link.css');
 @import url('./color.css');
+@import url('./printer.css');
 
 .rkaneko-theme {
   background: #F5F5DC;
